@@ -1,0 +1,43 @@
+
+{
+  "heroBackground": {
+    "src": "https://picsum.photos/seed/syntaxhero/1920/1080",
+    "alt": "Hero background technology",
+    "hint": "abstract technology"
+  },
+  "aboutPromo": {
+    "src": "https://picsum.photos/seed/syntaxabout/800/600",
+    "alt": "Inter Syntax 2025 Event Background",
+    "hint": "coding graphics"
+  },
+  "aboutOverlayLogo": {
+    "src": "https://picsum.photos/seed/syntaxoverlay/400/200",
+    "alt": "Syntax Logo Placeholder",
+    "hint": "tech logo"
+  },
+  "sponsor1": { "src": "https://picsum.photos/seed/tech/200/100", "alt": "TechCorp", "hint": "tech logo" },
+  "sponsor2": { "src": "https://picsum.photos/seed/design/200/100", "alt": "Design Studio", "hint": "design studio" },
+  "sponsor3": { "src": "https://picsum.photos/seed/future/200/100", "alt": "Future Systems", "hint": "future tech" },
+  "sponsor4": { "src": "https://picsum.photos/seed/ai/200/100", "alt": "Innovate AI", "hint": "ai innovation" },
+  "gallery": [
+    { "id": 1, "src": "/images/gallery/1.jpg", "alt": "Syntax Moment 1", "hint": "tech event" },
+    { "id": 2, "src": "/images/gallery/2.jpg", "alt": "Syntax Moment 2", "hint": "tech event" },
+    { "id": 3, "src": "/images/gallery/3.jpg", "alt": "Syntax Moment 3", "hint": "tech event" },
+    { "id": 4, "src": "/images/gallery/4.JPG", "alt": "Syntax Moment 4", "hint": "tech event" },
+    { "id": 5, "src": "/images/gallery/5.JPG", "alt": "Syntax Moment 5", "hint": "tech event" },
+    { "id": 6, "src": "/images/gallery/6.JPG", "alt": "Syntax Moment 6", "hint": "tech event" },
+    { "id": 7, "src": "/images/gallery/7.JPG", "alt": "Syntax Moment 7", "hint": "tech event" },
+    { "id": 8, "src": "/images/gallery/10.jpg", "alt": "Syntax Moment 10", "hint": "tech event" },
+    { "id": 9, "src": "/images/gallery/9.JPG", "alt": "Syntax Moment 9", "hint": "tech event" },
+    { "id": 10, "src": "/images/gallery/8.JPG", "alt": "Syntax Moment 8", "hint": "tech event" },
+    { "id": 11, "src": "/images/gallery/11.jpg", "alt": "Syntax Moment 11", "hint": "tech event" },
+    { "id": 12, "src": "/images/gallery/12.jpg", "alt": "Syntax Moment 12", "hint": "tech event" },
+    { "id": 13, "src": "/images/gallery/13.jpg", "alt": "Syntax Moment 13", "hint": "tech event" },
+    { "id": 14, "src": "/images/gallery/14.jpg", "alt": "Syntax Moment 14", "hint": "tech event" },
+    { "id": 15, "src": "/images/gallery/15.jpg", "alt": "Syntax Moment 15", "hint": "tech event" },
+    { "id": 16, "src": "/images/gallery/16.jpg", "alt": "Syntax Moment 16", "hint": "tech event" },
+    { "id": 17, "src": "/images/gallery/17.JPG", "alt": "Syntax Moment 17", "hint": "tech event" },
+    { "id": 18, "src": "/images/gallery/18.JPG", "alt": "Syntax Moment 18", "hint": "tech event" },
+    { "id": 19, "src": "/images/gallery/19.JPG", "alt": "Syntax Moment 19", "hint": "tech event" }
+  ]
+}
